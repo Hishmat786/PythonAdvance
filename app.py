@@ -7,3 +7,4 @@ else:
 
 course= "Python's course for biginners"
 print(course)
+
